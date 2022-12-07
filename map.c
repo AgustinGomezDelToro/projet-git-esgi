@@ -1,11 +1,6 @@
 #include "stdio.h"
 
-void printMap();
 
-int main(void) {
-
-    printMap();
-}
 
 void printMap() {
     for(int i=0 ; i < 10 ; i+=1) {
@@ -20,4 +15,5 @@ void printMap() {
         }
         printf("\n");
     }
+    printf("\n");
 }

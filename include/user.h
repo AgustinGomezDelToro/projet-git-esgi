@@ -1,5 +1,5 @@
-#ifndef MAP_H
-#define MAP_H
+#ifndef USER_H
+#define USER_H
 
     /**
      * @brief displays the contacts
